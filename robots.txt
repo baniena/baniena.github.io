@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baniena.github.io/sitemap.html.gz
+Sitemap: https://baniena.github.io/app/sitemap.html.gz
+Sitemap: https://baniena.github.io/assets/sitemap.html.gz
+Sitemap: https://baniena.github.io/css/sitemap.html.gz
+Sitemap: https://baniena.github.io/data/sitemap.html.gz
+Sitemap: https://baniena.github.io/includes/sitemap.html.gz
+Sitemap: https://baniena.github.io/item/sitemap.html.gz
+Sitemap: https://baniena.github.io/src/sitemap.html.gz
